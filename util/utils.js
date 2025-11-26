@@ -1,4 +1,4 @@
-const fsystem = require("fs");
+const fsystem = require("original-fs");
 const pth = require("path");
 const Constants = require("./constants");
 const Errors = require("./errors");
