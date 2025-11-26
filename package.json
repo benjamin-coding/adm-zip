@@ -40,6 +40,7 @@
     "node": ">=12.0"
   },
   "devDependencies": {
+    "original-fs": "^1.2.0",
     "chai": "^4.3.4",
     "iconv-lite": "^0.6.3",
     "mocha": "^10.2.0",
